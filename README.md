@@ -211,7 +211,7 @@ This library's plugins have been updated to work with the later, post-3.6 versio
 
 ## Examples
 
-A full, working example of performing a Sketch import and parsing the incoming data has been provided in Swift as a Mac app at is located at `examples/SketchImportExamples/SketchImportExamples.xcodeproj`. 
+A full, working example of performing a Sketch import and parsing the incoming data has been provided in Swift as a Mac app and is located at `examples/SketchImportExamples/SketchImportExamples.xcodeproj`. 
 
 This example also aims to "sketch" out the basic steps in accomplishing a merge import with the parsed information. 
 
